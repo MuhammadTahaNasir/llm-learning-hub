@@ -26,9 +26,10 @@ No OpenAI, no Pinecone, no paid APIs.
 
 ```
 free_rag_pipeline_faiss/
-├── free_rag_pipeline.ipynb      # Colab-ready notebook
-├── example.txt                  # Sample document (can be replaced with PDF)
-└── README.md                    # You're here
+├── streamlit_app.py          # Streamlit frontend (optional)
+├── free_rag_pipeline.ipynb   # Colab-ready notebook
+├── example.txt               # Sample document (can be replaced with PDF)
+└── README.md                 # You're here
 ```
 
 ---
@@ -79,6 +80,26 @@ pip install sentence-transformers faiss-cpu transformers langchain unstructured 
 - [ ] Streamlit UI for asking questions
 - [ ] Switchable models (e.g., Mistral, LLaMA 3 via Transformers)
 - [ ] Add ChromaDB backend as alternative to FAISS
+
+---
+
+## 🌐 Try the Streamlit App
+
+### 🖼️ Live App Preview
+
+![Streamlit App Screenshot](streamlit_preview.png)
+
+
+You can test the full pipeline using a simple UI built with [Streamlit](https://streamlit.io). Upload a text file, ask a question, and get context-aware answers from a local model.
+
+> 📍 Run it locally with:
+```bash
+streamlit run streamlit_app.py
+```
+
+> 🧠 No OpenAI or paid APIs used — 100% free using HuggingFace + FAISS.
+
+> 📁 File: `streamlit_app.py`
 
 ---
 
