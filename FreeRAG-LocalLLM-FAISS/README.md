@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/RAG-ready-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/FAISS-VectorDB-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/No-API--Key-Required-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/HuggingFace-🤗-yellow?style=flat-square" />
 </p>
 
@@ -85,19 +84,13 @@ pip install sentence-transformers faiss-cpu transformers langchain unstructured 
 
 ## 🤝 Contributing
 
-Contributions welcome — fork this repo, improve the pipeline, or try new models!  
+Contributions welcome, fork this repo, improve the pipeline, or try new models!  
 If you like it, consider ⭐️ starring and sharing.
-
----
-
-## 📜 License
-
-MIT License — free to use and adapt.
 
 ---
 
 ## 📫 Author
 
-**Taha Nasir**  
+**Muhammad Taha Nasir**  
 💼 Aspiring AI Engineer | RAG Systems | Open Source  
-🌐 [LinkedIn](https://linkedin.com) · [GitHub](https://github.com) · [Kaggle](https://kaggle.com)
+🌐 [LinkedIn](https://linkedin.com/muhammadtahanasir) · [GitHub](https://github.com/MuhammadTahaNasir) · [Kaggle](https://kaggle.com/muhamadtahanasir)
