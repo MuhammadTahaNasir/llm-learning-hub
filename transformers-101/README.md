@@ -49,8 +49,8 @@ This is part of a complete learning repo built to:
 ---
 
 ## ✨ Author
-**Taha Nasir** — Aspiring AI Engineer | Learning by building  
-> Follow along: [linkedin.com/in/your-link](https://linkedin.com/in/muhammadtahanasir)
+**Muhammad Taha Nasir** — Aspiring AI Engineer | Learning by building  
+> Follow along: [linkedin.com/in/muhammadtahanasir](https://linkedin.com/in/muhammadtahanasir)
 
 ---
 
