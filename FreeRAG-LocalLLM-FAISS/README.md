@@ -77,7 +77,6 @@ pip install sentence-transformers faiss-cpu transformers langchain unstructured 
 ## 📘 Future Add-ons
 
 - [ ] PDF upload support via `Unstructured` or `PyMuPDF`
-- [ ] Streamlit UI for asking questions
 - [ ] Switchable models (e.g., Mistral, LLaMA 3 via Transformers)
 - [ ] Add ChromaDB backend as alternative to FAISS
 
